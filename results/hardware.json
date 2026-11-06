@@ -1,0 +1,6 @@
+{
+ "platform": "Linux-6.12.94+-x86_64-with-glibc2.41",
+ "cpu": "Model name:                              Intel(R) Xeon(R) Processor",
+ "cores": 8,
+ "python": "3.13.5"
+}

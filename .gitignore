@@ -1,0 +1,23 @@
+# NASA PCoE raw battery data (download separately; do not commit)
+data/
+*.mat
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.env
+
+# Fitted model binaries (Random Forest pickles are tens of MB)
+*.pkl
+*.pickle
+*.joblib
+*.ubj
+*.model
+
+# OS / editor
+.DS_Store
